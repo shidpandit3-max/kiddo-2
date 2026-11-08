@@ -1,0 +1,19 @@
+Metric,Value
+Total Orders,8716
+Weekday Orders,6258
+Weekend Orders,2458
+Weekday %,71.8
+Weekend %,28.2
+On-Time %,64.7
+Delayed %,35.3
+Avg Delay (min),24.9
+Peak Hour,18
+Peak Hour Orders,662
+Avg Delivery Time (min),61.4
+Median Delivery Time (min),55
+Fastest Delivery (min),2
+Slowest Delivery (min),298
+Avg Expected ETA (min),50.7
+Avg ETA Variance (min),10.7
+ETA Accuracy %,43.4
+Bottleneck Stage,Packing Duration_min
